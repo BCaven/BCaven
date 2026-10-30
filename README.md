@@ -2,12 +2,12 @@
 
 I build GPU rendering and real-time software, measure and de-risk new techniques, then turn them into tools other people can use.
 
-![Progressive Path Tracer](https://raw.githubusercontent.com/BCaven/OfflineRaytracingGPU/refs/heads/master/ProjectAssets/SplatInterior.png)
+![Progressive Path Tracer](https://raw.githubusercontent.com/BCaven/OfflineRaytracingGPU/refs/heads/master/ProjectAssets/mixed_traversal_showcase.png)
 
 ## GPU Path Tracing
 **[OfflineRaytracingGPU](https://github.com/BCaven/OfflineRaytracingGPU)**: a spectral Monte Carlo path tracer in Slang, C++, and Vulkan with custom compute-shader traversal.
 - Arbitrary pointers within the BVH for nested instancing: 8 billion instances in ~2 GB
-- 8-wide k-DOP hierarchies, gaussian splat primitives
+- Mixed TLAS/BLAS traversal methods, gaussian splat primitives
 - Technical details and build instructions [here](https://github.com/BCaven/OfflineRaytracingGPU/tree/master#implementation-details)
 
 ## Previous work
