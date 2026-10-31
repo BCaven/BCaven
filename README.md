@@ -21,4 +21,4 @@ I build GPU rendering and real-time software, measure and de-risk new techniques
 MS in Computer Science, University of Notre Dame (machine learning and real-time simulation). \
 Looking for GPU and rendering engineering or research roles.
 
-**Tools:** C++, Slang, Vulkan, Unreal Engine 5, GLSL, OpenGL, Nsight Graphics, Libtorch
+**Tools:** C++, Slang, Vulkan, Unreal Engine 5, GLSL, OpenGL, Nsight Graphics, LibTorch
