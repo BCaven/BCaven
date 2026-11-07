@@ -8,9 +8,9 @@ I build GPU rendering and real-time software, measure and de-risk new techniques
 
 ## GPU Path Tracing
 **[OfflineRaytracingGPU](https://github.com/BCaven/OfflineRaytracingGPU)**: a spectral Monte Carlo path tracer in Slang, C++, and Vulkan with custom compute-shader traversal.
-- Arbitrary pointers within the BVH for nested instancing: 8 billion instances in ~2 GB at 90 MRays/s.
+- Arbitrary pointers within the BVH for nested instancing: 8 billion instances in ~2 GB at 125 MRays/s.
 - Stack TLAS with stackless AABB BLAS, Gaussian Splat primitives
-- Technical details and build instructions [here](https://github.com/BCaven/OfflineRaytracingGPU/#implementation-details-and-performance-considerations)
+- Technical details, more benchmarks, and build instructions [here](https://github.com/BCaven/OfflineRaytracingGPU/#implementation-details-and-performance-considerations)
 
 ## Previous work
 - **[Notre Dame Studios virtual production](https://bcaven.github.io/?content=ND_Studios_VirtProd.html)** – built the university's first real-time virtual production capability (Unreal Engine 5, stYpe tracking, custom C++ integrations)
