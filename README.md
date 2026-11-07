@@ -1,6 +1,6 @@
 # Blake Caven
 
-> [linkedin](https://www.linkedin.com/in/blake-caven/) | [personal site](bcaven.github.io)
+> [linkedin](https://www.linkedin.com/in/blake-caven/) | [personal site](https://bcaven.github.io/)
 
 I build GPU rendering and real-time software, measure and de-risk new techniques, then turn them into tools other people can use.
 
